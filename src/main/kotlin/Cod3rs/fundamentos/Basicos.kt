@@ -21,5 +21,5 @@ fun main() {
     println(1.0 is Double)
 
     println(10.dec())
-    
+
 }
